@@ -14,5 +14,5 @@ AJAX, Ajax (Asynchronous Javascript and XML — «асинхронный JavaScr
 ### Структура проекта
 1. View
   1. index.html
-2. data.json
-3. index.js
+1. data.json
+1. index.js
